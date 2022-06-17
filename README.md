@@ -10,8 +10,13 @@ board accordingly.
   
   Hardware : Arduino UNO, Servo Motor, LED
   
+  
+  
+  
  
 ### Results 
+1. Face Mask detection
+2. Hardware Simulation in Tinkercad
 
 3.A 3d gate design in fusion360
 
