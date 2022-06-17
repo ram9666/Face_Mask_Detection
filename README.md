@@ -18,7 +18,7 @@ board accordingly.
 1. Face Mask detection
 2. Hardware Simulation in Tinkercad
 
-3.A 3d gate design in fusion360
+3. A 3d gate design in fusion360
 
 
 
