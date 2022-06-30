@@ -19,6 +19,7 @@ board accordingly.
 2. Hardware Simulation in Tinkercad
 
 3. A 3d gate design in fusion360
+! [] https://github.com/ram9666/Face_Mask_Detection/blob/main/videos%20and%20images/3d_gate_simulation%20-%20Copy.mp4
 
 
 
