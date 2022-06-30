@@ -17,6 +17,10 @@ board accordingly.
 ### Results 
 1. Face Mask detection
 2. Hardware Simulation in Tinkercad
+'''
+'''![arduino sim](https://user-images.githubusercontent.com/92446670/176642288-c0bbdbcf-c1f5-4ba6-8ce7-29cff938d9cb.gif)
+
+
 
 3. A 3d gate design in fusion360
 <p align="center">
